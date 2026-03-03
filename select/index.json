@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "深海",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-03T15:31:05.290256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_深海_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "深海〜ReBirth〜",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/02_深海〜ReBirth〜_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "深海〜ReBirth〜",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/03_深海〜ReBirth〜_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "peggies, the",
+      "has_synced": true,
+      "path": "select/04_深海_peggies,_the.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/05_深海_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/06_深海_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "刘森",
+      "has_synced": true,
+      "path": "select/07_深海_刘森.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/08_深海_张学友.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "森七菜",
+      "has_synced": true,
+      "path": "select/09_深海_森七菜.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "等什么君",
+      "has_synced": true,
+      "path": "select/10_深海_等什么君.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/11_深海_張學友.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "栗山千明",
+      "has_synced": false,
+      "path": "select/12_深海_栗山千明.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "深海",
+      "artist": "Cheung, Jacky",
+      "has_synced": true,
+      "path": "select/13_深海_Cheung,_Jacky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深海",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_深海_Mr.Children.txt"
+    }
+  ]
+}
